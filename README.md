@@ -1,7 +1,7 @@
-# Projeto com Arduino, LCD e Ultrassônico:
+# Arduino, LCD, and Ultrasonic Sensor Project:
 
-Pelo ultrassônico, irá detectar um corpo material e indicar a distância do sensor ao que foi detectado.
+This project utilizes an Arduino microcontroller, an LCD display, and an ultrasonic sensor to detect the presence of an object and display its distance from the sensor.
 
-## Ligações do projeto:
+## Project Connections:
 
-![Ligação do projeto](https://i.imgur.com/S059wfj.png)
+![Project connections](https://i.imgur.com/S059wfj.png)
